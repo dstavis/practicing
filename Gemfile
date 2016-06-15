@@ -1,6 +1,12 @@
 source 'https://rubygems.org'
 
 
+gem 'slim'
+
+gem 'bootstrap-sass'
+gem 'twitter-bootstrap-rails'
+gem 'bootstrap-generators'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
 # Use sqlite3 as the database for Active Record
